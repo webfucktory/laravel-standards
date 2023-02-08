@@ -1,35 +1,35 @@
-In completion of [Laravel docs](#ref-1).
+In completion of [Laravel docs](#-refs--1).
 
 # Controllers
 
-[`route`](#ref-2)'s `URL` MUST correspond to [`controller`](#ref-3)'s `namespace`.
+[`route`](#-refs--2)'s `URL` MUST correspond to [`controller`](#-refs--3)'s `namespace`.
 
-## Case
+# Controllers/_Case
 
 `/foo/bar` = `\App\Http\Controllers\Foo\Bar`
 
 # Eloquent: API Resources
 
-[`route`](#ref-2)'s `URL` MUST correspond to [`resource`](#ref-4)'s `namespace`.
+[`route`](#-refs--2)'s `URL` MUST correspond to [`resource`](#-refs--4)'s `namespace`.
 
-## Case
+# Eloquent: API Resources/_Case
 
 `/resources/foo/bar` = `\App\Http\Resources\Foo\Bar`
 
-# Refs
+# _Refs
 
-###### ref-1
+## _Refs/_1
 
 https://laravel.com/docs
 
-###### ref-2
+## _Refs/_2
 
 https://laravel.com/docs/routing
 
-###### ref-3
+## _Refs/_3
 
 https://laravel.com/docs/controllers
 
-###### ref-4
+## _Refs/_4
 
 https://laravel.com/docs/eloquent-resources
