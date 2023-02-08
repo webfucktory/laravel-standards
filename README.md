@@ -1,4 +1,4 @@
-In completion of [Laravel docs](#-refs--1).
+Present `Laravel standards` completes and/or overrides [Laravel docs](#-refs--1).
 
 # Controllers
 
@@ -14,7 +14,7 @@ In completion of [Laravel docs](#-refs--1).
 
 # Eloquent: API Resources/_Case
 
-`/resources/foo/bar` = `\App\Http\Resources\Foo\Bar`
+`/resources/foo/bar` = `\App\Http\Controllers\Resources\Foo\Bar`
 
 # _Refs
 
